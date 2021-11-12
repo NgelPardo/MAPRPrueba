@@ -1,0 +1,11 @@
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\bin\Debug\MAPRPrueba.exe.config
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\bin\Debug\MAPRPrueba.exe
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\bin\Debug\MAPRPrueba.pdb
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\obj\Debug\MAPRPrueba.csproj.SuggestedBindingRedirects.cache
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\obj\Debug\MAPRPrueba.Form1.resources
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\obj\Debug\MAPRPrueba.Properties.Resources.resources
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\obj\Debug\MAPRPrueba.csproj.GenerateResource.cache
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\obj\Debug\MAPRPrueba.csproj.CoreCompileInputs.cache
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\obj\Debug\MAPRPrueba.exe
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\obj\Debug\MAPRPrueba.pdb
+D:\Miguel\Visual_Studio\Archivos\MAPRPrueba\MAPRPrueba\obj\Debug\MAPRPrueba.csproj.AssemblyReference.cache

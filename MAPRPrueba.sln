@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAPRPrueba", "MAPRPrueba\MAPRPrueba.csproj", "{49301804-538E-4D74-80D3-6FE221AFF46A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49301804-538E-4D74-80D3-6FE221AFF46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49301804-538E-4D74-80D3-6FE221AFF46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49301804-538E-4D74-80D3-6FE221AFF46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49301804-538E-4D74-80D3-6FE221AFF46A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09B5ACCA-7779-4606-857E-EB36D907B045}
+	EndGlobalSection
+EndGlobal
